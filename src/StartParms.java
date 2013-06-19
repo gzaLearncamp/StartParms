@@ -10,7 +10,7 @@ public class StartParms {
 			System.out.println(System.getProperty("ApplVersion"));
 			System.out.println("Anzahl Start Parameter:" + args.length);
 			for (int i = 0;i < args.length; i++){
-				System.out.println("Start parm" + (i+1) +" " + args[i]);
+				System.out.println("Start parameter Nr. " + (i+1) +" " + args[i]);
 			}
 			
 			
