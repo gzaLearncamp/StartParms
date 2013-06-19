@@ -1,4 +1,4 @@
 StartParms
 ==========
 
-Starten von Java mit Parametn
+Starten von Java mit Parametern
